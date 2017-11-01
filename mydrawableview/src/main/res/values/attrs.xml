@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyDrawableView">
+        <attr name="mydrawable">
+            <enum name="one" value="0" />
+            <enum name="two" value="1" />
+            <enum name="three" value="2" />
+
+        </attr>
+
+    </declare-styleable>
+
+</resources>
