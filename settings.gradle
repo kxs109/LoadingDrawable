@@ -1,0 +1,1 @@
+include ':viewinject-compiler', ':viewinject-annotation', ':jpushdemo', ':viewinject-api', ':viewinject-sample', ':pullzoomview_library', ':searchview_library', ':jjsearchview_library', ':jjsearchview_app', ':avloading_library', ':avloading_app', ':loadingdrawable_library', ':loadingdrawable_app', ':mydrawableview', ':mydrawableviewapp'

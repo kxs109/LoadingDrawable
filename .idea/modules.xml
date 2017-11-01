@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GithubTest.iml" filepath="$PROJECT_DIR$/GithubTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/avloading_app/avloading_app.iml" filepath="$PROJECT_DIR$/avloading_app/avloading_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/avloading_library/avloading_library.iml" filepath="$PROJECT_DIR$/avloading_library/avloading_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jjsearchview_app/jjsearchview_app.iml" filepath="$PROJECT_DIR$/jjsearchview_app/jjsearchview_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jjsearchview_library/jjsearchview_library.iml" filepath="$PROJECT_DIR$/jjsearchview_library/jjsearchview_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpushdemo/jpushdemo.iml" filepath="$PROJECT_DIR$/jpushdemo/jpushdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadingdrawable_app/loadingdrawable_app.iml" filepath="$PROJECT_DIR$/loadingdrawable_app/loadingdrawable_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadingdrawable_library/loadingdrawable_library.iml" filepath="$PROJECT_DIR$/loadingdrawable_library/loadingdrawable_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydrawableview/mydrawableview.iml" filepath="$PROJECT_DIR$/mydrawableview/mydrawableview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydrawableviewapp/mydrawableviewapp.iml" filepath="$PROJECT_DIR$/mydrawableviewapp/mydrawableviewapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullzoomview_library/pullzoomview_library.iml" filepath="$PROJECT_DIR$/pullzoomview_library/pullzoomview_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchview_library/searchview_library.iml" filepath="$PROJECT_DIR$/searchview_library/searchview_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewinject-annotation/viewinject-annotation.iml" filepath="$PROJECT_DIR$/viewinject-annotation/viewinject-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewinject-api/viewinject-api.iml" filepath="$PROJECT_DIR$/viewinject-api/viewinject-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewinject-compiler/viewinject-compiler.iml" filepath="$PROJECT_DIR$/viewinject-compiler/viewinject-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewinject-sample/viewinject-sample.iml" filepath="$PROJECT_DIR$/viewinject-sample/viewinject-sample.iml" />
+    </modules>
+  </component>
+</project>

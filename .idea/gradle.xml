@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/avloading_app" />
+            <option value="$PROJECT_DIR$/avloading_library" />
+            <option value="$PROJECT_DIR$/jjsearchview_app" />
+            <option value="$PROJECT_DIR$/jjsearchview_library" />
+            <option value="$PROJECT_DIR$/jpushdemo" />
+            <option value="$PROJECT_DIR$/loadingdrawable_app" />
+            <option value="$PROJECT_DIR$/loadingdrawable_library" />
+            <option value="$PROJECT_DIR$/mydrawableview" />
+            <option value="$PROJECT_DIR$/mydrawableviewapp" />
+            <option value="$PROJECT_DIR$/pullzoomview_library" />
+            <option value="$PROJECT_DIR$/searchview_library" />
+            <option value="$PROJECT_DIR$/viewinject-annotation" />
+            <option value="$PROJECT_DIR$/viewinject-api" />
+            <option value="$PROJECT_DIR$/viewinject-compiler" />
+            <option value="$PROJECT_DIR$/viewinject-sample" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
